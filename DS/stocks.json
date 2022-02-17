@@ -1,0 +1,18 @@
+{
+    "Equity" : [{
+        "name":"Tata Motors",
+        "NumberOfShare": 10,
+        "SharePrice": 471
+        },
+        {
+        "name":"TCS",
+        "NumberOfShare": 24,
+        "SharePrice": 3729.15
+        },
+        {
+        "name":"Reliance",
+        "NumberOfShare": 24,
+        "SharePrice": 2332
+        }
+    ]
+}
